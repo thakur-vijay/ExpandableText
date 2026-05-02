@@ -14,12 +14,12 @@ behavior** without compromising performance or API simplicity.
 ExpandableText is not just a "Read More" solution --- it's a **custom
 rendering system for text expansion**.
 
--   ⚡ Zero boilerplate integration\
--   🎯 Precise line-based truncation\
--   🎬 Smooth animated expansion\
--   🌫 Native blur-based reveal effect\
--   🧠 Built using `TextRenderer` (iOS 18+)\
--   🧩 Clean modifier-based API\
+-   ⚡ Zero boilerplate integration
+-   🎯 Precise line-based truncation
+-   🎬 Smooth animated expansion
+-   🌫 Native blur-based reveal effect
+-   🧠 Built using `TextRenderer` (iOS 18+)
+-   🧩 Clean modifier-based API
 -   🎨 Fully customizable trailing text ("...More")
 
 ------------------------------------------------------------------------
@@ -76,7 +76,7 @@ import ExpandableText
 
 ## 🛠 Requirements
 
--   iOS 18.0+\
+-   iOS 18.0+
 -   SwiftUI
 
 ------------------------------------------------------------------------
@@ -131,8 +131,8 @@ struct ContentView: View {
 
 ## 🎯 Best Practices
 
--   Use 2--4 lines\
--   Keep text short\
+-   Use 2--4 lines
+-   Keep text short
 -   Use subtle animations
 
 ------------------------------------------------------------------------
