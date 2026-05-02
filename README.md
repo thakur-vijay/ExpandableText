@@ -39,7 +39,7 @@ File → Add Package Dependencies
 
 Or:
 
-https://github.com/your-username/ExpandableText.git
+https://github.com/thakur-vijay/ExpandableText.git
 
 ------------------------------------------------------------------------
 
