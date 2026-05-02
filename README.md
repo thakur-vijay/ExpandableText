@@ -26,7 +26,8 @@ rendering system for text expansion**.
 
 ## 📱 Demo
 
-(Add your screenshots here)
+<img width="800" height="419" alt="ScreenRecording2026-05-02at1 10 59PM-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/83584dbf-248f-4a78-954f-205786073f63" />
+
 
 ------------------------------------------------------------------------
 
