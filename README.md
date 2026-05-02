@@ -78,13 +78,13 @@ struct ContentView: View {
 
 ## ⚙️ Configuration Options
 
-  Parameter    Description
-  ------------ -------------------------
-  length       Number of visible lines
-  isEnabled    Controls collapse state
-  moreText     Trailing text
-  blurRadius   Blur intensity
-  animation    Transition animation
+| Parameter   | Description                 |
+|------------|-----------------------------|
+| `length`    | Number of visible lines     |
+| `isEnabled` | Controls collapse state     |
+| `moreText`  | Trailing text               |
+| `blurRadius`| Blur intensity              |
+| `animation` | Transition animation        |
 
 ------------------------------------------------------------------------
 
