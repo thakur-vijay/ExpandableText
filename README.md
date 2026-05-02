@@ -35,11 +35,42 @@ rendering system for text expansion**.
 
 ### Swift Package Manager
 
-File → Add Package Dependencies
+To integrate `ExpandableText` using Swift Package Manager, add the following dependency to your `Package.swift`:
 
-Or:
+```swift
+dependencies: [
+    .package(url: "https://github.com/thakur-vijay/ExpandableText.git", from: "1.0.0")
+]
+```
 
+Then add the package to your target:
+
+```swift
+.target(
+    name: "YourTarget",
+    dependencies: ["ExpandableText"]
+)
+```
+
+Or add it directly in Xcode:
+
+```
+File → Add Package Dependencies…
+```
+
+Enter the repository URL:
+
+```
 https://github.com/thakur-vijay/ExpandableText.git
+```
+
+---
+
+## 📦 Import
+
+```swift
+import ExpandableText
+```
 
 ------------------------------------------------------------------------
 
